@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kunal/Documents/flask_app/venvnew/sample_chatbot/./models/nlu/default/nlu_model/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/kunal/Documents/flask_app/venvnew/sample_chatbot/./models/nlu/default/nlu_model/intent_classifier_tensorflow_embedding.ckpt"
