@@ -141,7 +141,7 @@ twilio==6.11.0
 Twisted==18.9.0
 typing==3.6.2
 tzlocal==1.5.1
-ujson==1.35
+ujson==5.2.0
 urllib3==1.22
 websocket-client==0.53.0
 Werkzeug==0.14.1
