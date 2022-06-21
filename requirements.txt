@@ -83,7 +83,7 @@ nbformat==4.4.0
 nbsphinx==0.3.5
 networkx==1.11
 npm==0.1.1
-numpy==1.14.0
+numpy==1.22.0
 optional-django==0.1.0
 packaging==18.0
 pandoc==1.0.0b2
